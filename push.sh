@@ -1,0 +1,6 @@
+git config --global user.name 'OSBORRRN'
+git config --global user.email 'sinuo2624456383@163.com'
+git config --global http.sslverify false
+git add .
+git commit -m 自动推送
+git push
